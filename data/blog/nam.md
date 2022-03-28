@@ -11,5 +11,5 @@ canonicalUrl: https://tailwind-nextjs-starter-blog.vercel.app/blog/new-features-
 ---
 # é
 # aaaa
-
+![](../logo.svg)
 ![aaa](/public/static/images/avatar.png)
