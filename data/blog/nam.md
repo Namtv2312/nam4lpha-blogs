@@ -11,4 +11,4 @@ canonicalUrl: https://tailwind-nextjs-starter-blog.vercel.app/blog/new-features-
 ---
 # é
 # aaaa
-[aaa](2764f07f97b058ee01a1.jpg)
+![](2764f07f97b058ee01a1.jpg)
