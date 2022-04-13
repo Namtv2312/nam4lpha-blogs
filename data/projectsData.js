@@ -10,7 +10,7 @@ const projectsData = [
     description: `Blog security.`,
     imgSrc: '/static/images/time-machine.jpg',
 //    href: '/blog/the-time-machine',
-    href: 'archnamtv.edublogs.org',
+    href: 'https://archnamtv.edublogs.org',
   },
 ]
 
